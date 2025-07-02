@@ -1,0 +1,3 @@
+pyrogram
+umongoengine # or peewee/SQLAlchemy for SQLite
+python-dotenv
